@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitesh
-- 🔭 I’m currently working on Manufacturing Execution systems
-- 🌱 I’m currently learning C# with .NET
+- 🔭 I’m currently working on Automatic Billing Systems
+- 🌱 I’m currently learning azure cloud.
 - 📫 How to reach me: niteshsharma@gmail.com
 - 🙌 check out: https://niteshpro.github.io/myprojects.github.io/
